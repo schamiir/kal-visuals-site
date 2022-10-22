@@ -21,3 +21,6 @@ I learned much about  implementing my knowledge on HTML, CSS, and JavaScript. So
 ## Tech Stack
 
 **Client:** HTML, Bootstrap, JavaScript
+
+![App Screenshot](https://im2.ezgif.com/tmp/ezgif-2-80c3808394.gif)
+
