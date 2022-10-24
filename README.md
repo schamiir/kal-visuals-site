@@ -1,6 +1,6 @@
 # KAL VISUALS
 
-A portfolio app for a cinematographer in Los Angeles.
+A portfolio app for a cinematographer based in Los Angeles.
 
 
 ## Authors
