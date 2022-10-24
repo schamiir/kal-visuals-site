@@ -1,3 +1,4 @@
+
 # KAL VISUALS
 
 A portfolio app for a cinematographer in Los Angeles.
@@ -21,3 +22,7 @@ I learned much about  implementing my knowledge on HTML, CSS, and JavaScript. So
 ## Tech Stack
 
 **Client:** HTML, Bootstrap, JavaScript
+
+
+
+
